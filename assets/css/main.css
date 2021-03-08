@@ -1,0 +1,85 @@
+body {
+    font-family:  var(--fontOpen);
+    background-color: #eeeeee;
+    margin: 0%;
+}
+
+.mainP1 {
+    background-image: url(/assets/images/header.jpg);
+    height: 60rem;
+    width: 100%;
+    background-size:100% 100%;
+    align-items: center;
+    overflow-x: hidden;   
+}
+
+.mainP1 h1 {
+    display: flex;
+    font-size: 5rem;
+    justify-content: center;
+    margin-top: 30%;
+}
+
+
+
+.mainP2 {
+    background-color: black;
+    display: flex;
+    width: 100%;
+    height: 40rem;
+    
+    
+}
+
+.About {
+    display: block;
+    width: 40%;  
+    margin: 5rem 3rem 1rem 9rem; 
+}
+
+.About h2 {
+    color: var(--gray);
+     
+    font-size: 2rem;
+}
+.About h3 {
+    color: var(--grayO);
+    font-size: 1.5rem;
+    margin: 0%;
+}
+
+.About p {
+    color: var(--grayO);
+    font-size: 1rem;
+    text-align: justify;
+    line-height: 40px;
+}
+
+.our {
+    display: block;
+    width: 20%;
+    color: var(--grayO); 
+    margin: 9rem 3rem 1rem;
+}
+
+.our h3 {
+    color: var(--grayO);
+    font-size: 1.5rem;
+}
+
+.our img {
+    width: 3.5rem;
+    height: 3rem;
+}
+
+.imgPalmera  {
+    width: 30%;
+    margin: 5.5rem;
+    margin: 9rem 
+}
+
+.imgPalmera img {    
+    width: 24rem;
+    height: 26rem;
+
+}
